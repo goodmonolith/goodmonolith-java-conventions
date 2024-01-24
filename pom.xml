@@ -50,6 +50,10 @@
     <url>https://goodmonolith.org</url>
   </organization>
 
+  <scm>
+    <url>https://github.com/goodmonolith/goodmonolith-java-conventions</url>
+  </scm>
+
   <build>
     <plugins>
       <plugin>
